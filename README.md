@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on Airsip
+- 🔭 I’m currently working on C++
 - 🌱 I’m currently learning everything
 - 👯 I’m looking to collaborate on open source
 - 🤔 I’m looking for help with C++
